@@ -63,7 +63,13 @@ Agents:       Researcher · Builder · Commercial · Orchestrator
 
 ---
 
-## 🔗 Ecosystem
+## License
+
+MIT © [Project Alpha Tech](https://projectalpha.tech)
+
+---
+
+## Ecosystem
 
 All our open-source work:
 
