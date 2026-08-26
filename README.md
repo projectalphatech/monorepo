@@ -63,6 +63,18 @@ Agents:       Researcher · Builder · Commercial · Orchestrator
 
 ---
 
+## 🔗 Ecosystem
+
+All our open-source work:
+
+- [agent-os](https://github.com/projectalphatech/agent-os) — multi-agent coordination
+- [structured-delegation](https://github.com/projectalphatech/structured-delegation) — delegation patterns
+- [arabic-edge-pdf](https://github.com/projectalphatech/arabic-edge-pdf) — Arabic PDF at edge
+- [gps-cluster-engine](https://github.com/projectalphatech/gps-cluster-engine) — GPS clustering
+- [nextjs-cloudflare-deploy](https://github.com/projectalphatech/nextjs-cloudflare-deploy) — deployment guide
+
+---
+
 ## Contributing
 
 This is our internal monorepo, but PRs with real improvements are welcome. Read the agent-os patterns first — they explain how we work.
